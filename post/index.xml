@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rui Li</title>
+    <link>https://tumlyrik.github.io/post/</link>
+    <description>Recent content in Posts on Rui Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tumlyrik.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Erding</title>
+      <link>https://tumlyrik.github.io/p/travel/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tumlyrik.github.io/p/travel/</guid>
+      <description>Route It tooks an hour to ride from Neufahrn to Erding, ridden along the Isar River and then passed by the Munich Airport, which is the highlight of this journey.
+ Routing 
+City Erding is a town in Bavaria, Germany, and capital of the district Erding. It had a population of 36,469 in 2019.
+The original Erdinger Weissbier is a well-known Bavarian specialty. Grünbacher is one of the better-known local brands.</description>
+    </item>
+    
+    <item>
+      <title>鹊桥仙·纤云弄巧</title>
+      <link>https://tumlyrik.github.io/p/book1/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tumlyrik.github.io/p/book1/</guid>
+      <description>原文  纤云弄巧，飞星传恨，银汉迢迢暗度。 金风玉露一相逢，便胜却人间无数。 柔情似水，佳期如梦，忍顾鹊桥归路！ 两情若是久长时，又岂在朝朝暮暮。 鹊桥仙·纤云弄巧 - 秦观
+ 译文 纤薄的云彩在天空中变幻多端，天上的流星传递着相思的愁怨，遥远无垠的银河今夜我悄悄渡过。在秋风白露的七夕相会，就胜过尘世间那些长相厮守却貌合神离的夫妻。
+缱绻的柔情像流水般绵绵不断，重逢的约会如梦影般缥缈虚幻，分别之时不忍去看那鹊桥路。只要两情至死不渝，又何必贪求卿卿我我的朝欢暮乐呢。
+秦观: 字太虚，又字少游，别号邗沟居士，世称淮海先生。汉族，北宋高邮（今江苏）人，官至太学博士，国史馆编修  Photo from Unsplash 
+Photos from Typlog</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://tumlyrik.github.io/p/markdown-syntax-guide/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tumlyrik.github.io/p/markdown-syntax-guide/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://tumlyrik.github.io/p/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tumlyrik.github.io/p/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://tumlyrik.github.io/p/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tumlyrik.github.io/p/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://tumlyrik.github.io/p/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tumlyrik.github.io/p/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://tumlyrik.github.io/p/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tumlyrik.github.io/p/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
