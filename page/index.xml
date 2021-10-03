@@ -6,7 +6,20 @@
     <description>Recent content in Pages on Rui Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://tumlyrik.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tumlyrik.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://tumlyrik.github.io/about/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tumlyrik.github.io/about/</guid>
+      <description>Digitalisation Engineer at Fraunhofer Gesellschaft. Experienced programmers with an academic publication and two patents. A Team player and ready for a new opportunity.
+ Work experiences  Fraunhofer Gesellschaft
+Research Associate 2021.4-Present
+1- Realization of digital tracking of the whole production process of sand core
+ The setting of Distributed Servers Based on Single Chip Computers Centralized management of servers using Kubernetes cluster technology Development of sensor mats for sensing sand cores Construction of Web Visualization Platform  2- Exploring the feature correlation matrix of de-core process</description>
+    </item>
+    
     <item>
       <title>Archives</title>
       <link>https://tumlyrik.github.io/archives/</link>
@@ -14,17 +27,6 @@
       
       <guid>https://tumlyrik.github.io/archives/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://tumlyrik.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tumlyrik.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
     </item>
     
     <item>
